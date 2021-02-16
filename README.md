@@ -1,5 +1,6 @@
-# intro-video-example-project
-Example project to use in the intro video
+# Chess App 
+
+This is possibly the best chess app on the internet.
 
 
 ## Changelog
